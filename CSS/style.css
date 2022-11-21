@@ -114,7 +114,7 @@ nav>img {
 
 /* about us */
 #findus {
-    background-image: url('/images/vision.png');
+    background-image: url('images/vision.png');
     height: 450px;
     display: flex;
     flex-direction: row;
